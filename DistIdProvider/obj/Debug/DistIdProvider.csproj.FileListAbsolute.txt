@@ -1,0 +1,11 @@
+c:\users\bertc\documents\visual studio 2015\Projects\DistIdProvider\DistIdProvider\bin\Debug\DistIdProvider.exe.config
+c:\users\bertc\documents\visual studio 2015\Projects\DistIdProvider\DistIdProvider\obj\Debug\DistIdProvider.Properties.Resources.resources
+c:\users\bertc\documents\visual studio 2015\Projects\DistIdProvider\DistIdProvider\obj\Debug\DistIdProvider.csproj.GenerateResource.Cache
+c:\users\bertc\documents\visual studio 2015\Projects\DistIdProvider\DistIdProvider\obj\Debug\DistIdProvider.MainForm.resources
+c:\users\bertc\documents\visual studio 2015\Projects\DistIdProvider\DistIdProvider\bin\Debug\DistIdProvider.exe
+c:\users\bertc\documents\visual studio 2015\Projects\DistIdProvider\DistIdProvider\bin\Debug\DistIdProvider.pdb
+c:\users\bertc\documents\visual studio 2015\Projects\DistIdProvider\DistIdProvider\obj\Debug\DistIdProvider.exe
+c:\users\bertc\documents\visual studio 2015\Projects\DistIdProvider\DistIdProvider\obj\Debug\DistIdProvider.pdb
+c:\users\bertc\documents\visual studio 2015\Projects\DistIdProvider\DistIdProvider\bin\Debug\InputSimulator.dll
+c:\users\bertc\documents\visual studio 2015\Projects\DistIdProvider\DistIdProvider\bin\Debug\InputSimulator.pdb
+c:\users\bertc\documents\visual studio 2015\Projects\DistIdProvider\DistIdProvider\bin\Debug\InputSimulator.xml

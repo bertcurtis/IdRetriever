@@ -1,0 +1,11 @@
+C:\Users\bertc\Documents\Visual Studio 2015\Projects\DistIdProvider\DistIdProvider\bin\Release\DistIdProvider.exe.config
+C:\Users\bertc\Documents\Visual Studio 2015\Projects\DistIdProvider\DistIdProvider\bin\Release\DistIdProvider.exe
+C:\Users\bertc\Documents\Visual Studio 2015\Projects\DistIdProvider\DistIdProvider\bin\Release\DistIdProvider.pdb
+C:\Users\bertc\Documents\Visual Studio 2015\Projects\DistIdProvider\DistIdProvider\bin\Release\InputSimulator.dll
+C:\Users\bertc\Documents\Visual Studio 2015\Projects\DistIdProvider\DistIdProvider\bin\Release\InputSimulator.pdb
+C:\Users\bertc\Documents\Visual Studio 2015\Projects\DistIdProvider\DistIdProvider\bin\Release\InputSimulator.xml
+C:\Users\bertc\Documents\Visual Studio 2015\Projects\DistIdProvider\DistIdProvider\obj\Release\DistIdProvider.MainForm.resources
+C:\Users\bertc\Documents\Visual Studio 2015\Projects\DistIdProvider\DistIdProvider\obj\Release\DistIdProvider.Properties.Resources.resources
+C:\Users\bertc\Documents\Visual Studio 2015\Projects\DistIdProvider\DistIdProvider\obj\Release\DistIdProvider.csproj.GenerateResource.Cache
+C:\Users\bertc\Documents\Visual Studio 2015\Projects\DistIdProvider\DistIdProvider\obj\Release\DistIdProvider.exe
+C:\Users\bertc\Documents\Visual Studio 2015\Projects\DistIdProvider\DistIdProvider\obj\Release\DistIdProvider.pdb
