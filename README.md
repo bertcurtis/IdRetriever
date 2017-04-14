@@ -3,6 +3,12 @@
 
 Welcome!
 
+Note:
+
+In order to utilize the functionality properly, you need to change the SetData.cs file to match your needs. I had multiple DB functions for my needs so I had a lot of string functions changing the query based on the client needs. Change as you desire
+
+
+
 The use of this app is pretty self explanatory. The basic use is to copy all of the contents of the above folder onto your machine and then run the .exe file in the bin/release folder. BUT! There is a better way. The main use case of this app is to have it always running but not be aware of it's existance. In order to do that you need to:
 
 1. Copy the contents of the above folder and paste them somewhere memorable (a happy place if you will)
