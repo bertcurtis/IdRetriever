@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace DistIdProvider
 {
     static class Program
@@ -14,6 +15,9 @@ namespace DistIdProvider
         [STAThread]
         static void Main()
         {
+            MessageBoxManager.Yes = "Minimize";
+            MessageBoxManager.No = "Close Anyways";
+            MessageBoxManager.Register();
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new MainForm());

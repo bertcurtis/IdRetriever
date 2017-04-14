@@ -6,6 +6,4 @@ c:\users\bertc\documents\visual studio 2015\Projects\DistIdProvider\DistIdProvid
 c:\users\bertc\documents\visual studio 2015\Projects\DistIdProvider\DistIdProvider\bin\Debug\DistIdProvider.pdb
 c:\users\bertc\documents\visual studio 2015\Projects\DistIdProvider\DistIdProvider\obj\Debug\DistIdProvider.exe
 c:\users\bertc\documents\visual studio 2015\Projects\DistIdProvider\DistIdProvider\obj\Debug\DistIdProvider.pdb
-c:\users\bertc\documents\visual studio 2015\Projects\DistIdProvider\DistIdProvider\bin\Debug\InputSimulator.dll
-c:\users\bertc\documents\visual studio 2015\Projects\DistIdProvider\DistIdProvider\bin\Debug\InputSimulator.pdb
-c:\users\bertc\documents\visual studio 2015\Projects\DistIdProvider\DistIdProvider\bin\Debug\InputSimulator.xml
+C:\Users\bertc\Documents\Visual Studio 2015\Projects\DistIdProvider\DistIdProvider\obj\Debug\DistIdProvider.csprojResolveAssemblyReference.cache

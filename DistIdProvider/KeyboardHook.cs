@@ -49,10 +49,10 @@ namespace DistIdProvider
                     if (KeyPressed != null)
                         KeyPressed(this, new KeyPressedEventArgs(modifier, key));
                 }
+
             }
 
             public event EventHandler<KeyPressedEventArgs> KeyPressed;
-
             #region IDisposable Members
 
             public void Dispose()
@@ -73,9 +73,6 @@ namespace DistIdProvider
             {
                 if (KeyPressed != null)
                     KeyPressed(this, args);
-
-                if (DifferentKeyPressed != null)
-                    DifferentKeyPressed(this, args);
             };
         }
 
@@ -98,8 +95,6 @@ namespace DistIdProvider
         /// A hot key has been pressed.
         /// </summary>
         public event EventHandler<KeyPressedEventArgs> KeyPressed;
-
-        public event EventHandler<KeyPressedEventArgs> DifferentKeyPressed;
 
         #region IDisposable Members
 
